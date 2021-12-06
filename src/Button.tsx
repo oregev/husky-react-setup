@@ -10,7 +10,7 @@ export const Button: React.FC<Props> = ({ size }) => {
   return (
     <button type="button">
       {rightSize}
-      dhasgdkgagdasa
+      dhasgdkgagkjhlkhlkhlhlkhdasa
     </button>
   );
 };
