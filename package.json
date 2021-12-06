@@ -16,6 +16,19 @@
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
+  "devDependencies": {
+    "@spotify/prettier-config": "^12.0.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "19.0.2",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.2",
+    "prettier": "^2.5.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -52,18 +65,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@spotify/prettier-config": "^12.0.0",
-    "@typescript-eslint/parser": "^5.5.0",
-    "eslint": "^8.2.0",
-    "eslint-config-airbnb": "19.0.2",
-    "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-react": "^7.27.1",
-    "eslint-plugin-react-hooks": "^4.3.0",
-    "husky": "^7.0.4",
-    "lint-staged": "^12.1.2",
-    "prettier": "^2.5.1"
   }
 }
